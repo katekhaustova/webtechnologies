@@ -1,0 +1,20 @@
+body{
+  width: 20%;
+  border: 0;
+  font-size: 100%;
+  font: sans;
+  vertical-align: baseline;
+}
+footer{
+  height: 40px;
+  font-size: 100%;
+  font: sans;
+  text-align: center;
+  background-color: #39c9da;
+vertical-align: middle;
+
+}
+h2,p{
+
+    color: #a8a8a8;
+}
